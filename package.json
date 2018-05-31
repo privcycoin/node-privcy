@@ -1,0 +1,13 @@
+{
+    "name": "node-privcy",
+    "version": "1.0.1",
+    "description": "PRiVCY Client",
+    "keywords": ["privcy"],
+    "repository": "git://github.com/privcycoin/node-privcy.git",
+    "author": "Privcy",
+    "main": "lib/privcy.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
